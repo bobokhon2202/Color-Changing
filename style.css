@@ -1,0 +1,47 @@
+body {
+background-color: #778899;
+}
+
+.all-buttons{
+    margin-top: 100px;
+    margin-left: 500px;
+    display: flex;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.btn{
+    font-size: 30px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border-color: chartreuse;
+    margin: 5px;
+    
+
+}
+
+.red1:hover{
+    color: red;
+}
+
+.blue1:hover{
+    color: blue;
+}
+
+.yellow1:hover{
+    color: yellow;
+}
+.green1:hover{
+    color: green;
+}
+
+
+.box{
+    height: 250px;
+    width: 250px;
+    background-color: #ffffff;
+    margin-left: 660px;
+    margin-top: 40px;
+}
+
+
